@@ -10,6 +10,6 @@ I’m currently learning about intelligence. Why is there a divide between natur
 - 🤔 I’m looking for help to build an AI application model and to build upon such intelligence with tools or fine tuning.
 - 🤔 I need basic help getting a template/UI from cohere and connection with API for their models.
    
-- 💬 Ask me about application intelligence 😄
+- 💬 Ask me about intelligence 😄
 - 📫 How to reach me: hellomonorail@gmail.com
   
